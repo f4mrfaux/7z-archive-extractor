@@ -1,6 +1,13 @@
 # Threaded Archive Extractor
 
 A powerful PowerShell script that recursively scans directories for archive files (ZIP, RAR, 7Z, etc.) and extracts them using multiple CPU threads for maximum performance.
+# usecase
+This handy script can be applied in multiple ways:
+
+- As a one-off utility to extract multiple archives
+- Set up as a scheduled task for periodic maintenance
+- As a file groomer for your favorite torrent client
+- For automating media library organization and extraction
 
 ## Features
 
